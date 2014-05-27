@@ -5,7 +5,7 @@ function PrintPlot(fig, path, varargin)
 % (9pt) fonts.
 %
 % v1.0
-% by Field!
+% by Field Manar
 % 
 % Options: (order is not important)
 %   [sizex, sizey]          -output dimensions in inches
