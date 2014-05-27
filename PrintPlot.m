@@ -33,7 +33,7 @@ function PrintPlot(fig, path, varargin)
 % 300x300 pixels
 
 % Process options
-sizex = 6.5;
+sizex = 3;
 sizey = 2.25;
 type = '-dpdf';
 fontSize = 9;
